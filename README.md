@@ -1,49 +1,98 @@
-# WMD-Batch49-Q1-project01_number_guessing-game
-
 # Number Guessing Game
 
-This is a simple command-line-based Number Guessing Game implemented in Node.js. 
-The game generates a random number between 1 and 10, and the player has three 
-attempts to guess the correct number.
-
-## Features
-
-- Computer Randomly generates a number from 1 to 10.
-- Allows the player three attempts to guess the correct number.
-- Calculates and displays the player's total score based on their performance.
+Welcome to the Number Guessing Game! This is a fun game where you guess a random number.
 
 ## Getting Started
 
-# Number Guessing Game
+Two Methods to install the Game:
 
-Welcome to the Number Guessing Game project! This is a simple game that allows you to guess a random number.
+**METHOD 1:**
 
-## How to Play
+To play the game by cloning the repository and installing the necessary dependencies, follow these steps:
 
-1. **Clone the Repository**: Open your command-line terminal and run the following command to clone the project from GitHub and change your working directory to the game folder:
+### Step 1: Clone the Repository
+
+1. Open your command-line terminal or Git Bash.
+
+2. Navigate to the directory where you want to clone the game.
+
+3. Run the following command to clone the project from GitHub:
 
    ```
-   git clone https://github.com/saqibmurtaza/Q1-WMD-Batch49-NodeProjects-project01_number_guessing-game.git && cd Q1-WMD-Batch49-NodeProjects-project01_number_guessing-game
+   git clone https://github.com/saqibmurtaza/Q1-WMD-Batch49-NodeProjects-project01_number_guessing-game.git
    ```
 
-2. **Install Dependencies**: Use the following command to install the project's dependencies:
+### Step 2: Navigate to the Game Directory
+
+4. Change your working directory to the cloned game folder:
+
+   ```
+   cd Q1-WMD-Batch49-NodeProjects-project01_number_guessing-game
+   ```
+
+### Step 3: Install Dependencies
+
+5. Use the following command to install the project's dependencies:
 
    ```
    npm install
    ```
 
-3. **Play the Game**: Start the game by running the following command:
+### Step 4: Start the Game
+
+6. You can now start the game by running the following command:
 
    ```
    npx ngg
    ```
 
-   The game will start in your terminal, and you can follow the on-screen instructions to play.
+7. The game will start in your terminal, and you can follow the on-screen instructions to play.
 
-Enjoy the game and have fun guessing the number!
+Enjoy the game, and have fun guessing the number!
 
-## Contributing
+**METHOD 2:**
 
-If you encounter any issues or would like to contribute to the project, please feel free to create a pull request or submit an issue on our GitHub repository.
+## Getting Started
+
+To play the game, follow these simple steps:
+
+### Step 1: Download the Game
+
+1. Click the "Code" button at the top of the repository page.
+
+2. Select "Download ZIP" to download the game to your computer.
+
+![Download ZIP](images/download-zip.png)
+
+### Step 2: Extract the Game
+
+3. Locate the downloaded ZIP file (usually in your "Downloads" folder).
+
+4. Right-click the ZIP file and select "Extract All" to unzip the game files.
+
+### Step 3: Start the Game
+
+5. Open the unzipped game folder.
+
+6. Look for a file called "StartGame.bat" and double-click it to start the game.
+
+![Start Game](images/start-game.png)
+
+### Step 4: Play the Game
+
+7. Follow the on-screen instructions to play the game.
+
+![Game Instructions](images/game-instructions.png)
+
+That's it! You're ready to enjoy the Number Guessing Game. Have fun guessing the number!
+
+## Need Help?
+
+If you encounter any issues or have questions, please reach out for assistance.
+
+## License
+
+This game is available under the MIT License. See the [LICENSE](LICENSE) file for more details.
 ```
 
+This revised set of steps provides clear, non-technical instructions for users who are not developers or have limited computer background, making it easier for them to download, extract, and start playing the game.
