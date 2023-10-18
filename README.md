@@ -14,16 +14,36 @@ attempts to guess the correct number.
 
 ## Getting Started
 
-To play the game, follow these steps:
+# Number Guessing Game
 
-1. Clone this repository to your local machine:
+Welcome to the Number Guessing Game project! This is a simple game that allows you to guess a random number.
 
-git clone https://github.com/saqibmurtaza/number-guessing-game.git
+## How to Play
 
-cd number-guessing-game
+1. **Clone the Repository**: Open your command-line terminal and run the following command to clone the project from GitHub and change your working directory to the game folder:
 
-npm install
+   ```
+   git clone https://github.com/saqibmurtaza/Q1-WMD-Batch49-NodeProjects-project01_number_guessing-game.git && cd Q1-WMD-Batch49-NodeProjects-project01_number_guessing-game
+   ```
 
-**npx ngg**
+2. **Install Dependencies**: Use the following command to install the project's dependencies:
 
-Enjoy the game!
+   ```
+   npm install
+   ```
+
+3. **Play the Game**: Start the game by running the following command:
+
+   ```
+   npx ngg
+   ```
+
+   The game will start in your terminal, and you can follow the on-screen instructions to play.
+
+Enjoy the game and have fun guessing the number!
+
+## Contributing
+
+If you encounter any issues or would like to contribute to the project, please feel free to create a pull request or submit an issue on our GitHub repository.
+```
+
