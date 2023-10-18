@@ -62,8 +62,6 @@ To play the game, follow these simple steps:
 
 2. Select "Download ZIP" to download the game to your computer.
 
-![Download ZIP](images/download-zip.png)
-
 ### Step 2: Extract the Game
 
 3. Locate the downloaded ZIP file (usually in your "Downloads" folder).
@@ -76,13 +74,9 @@ To play the game, follow these simple steps:
 
 6. Look for a file called "StartGame.bat" and double-click it to start the game.
 
-![Start Game](images/start-game.png)
-
 ### Step 4: Play the Game
 
 7. Follow the on-screen instructions to play the game.
-
-![Game Instructions](images/game-instructions.png)
 
 That's it! You're ready to enjoy the Number Guessing Game. Have fun guessing the number!
 
